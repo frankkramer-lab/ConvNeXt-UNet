@@ -1,0 +1,4 @@
+venv
+*predictions
+Bachelor/isic_seg
+Bachelor/kvasir_seg
